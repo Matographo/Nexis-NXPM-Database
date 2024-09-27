@@ -1,0 +1,3 @@
+## Nexis DB
+
+This is a Database which contains all possible Package-Manager. In the pm field there is the Name From the Package-Manager and ind repo stands the Github Repository. You can also add new Package-Manager to your own local Database. It is a SQLite 3 database. If you want that everyone can use your Package-Manager, you can create an Issue with a Request to add, or you can send us a Massage with the Request. We will check if your Package-Manager suits our Policies and have the right conditions.
